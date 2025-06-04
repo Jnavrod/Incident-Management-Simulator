@@ -27,7 +27,7 @@ Additional observations:
 ## Project Structure
 
 ```
-PythonLogicModules/
+Incident-Management-Simulator/
 ├── cli/
 │   ├── __init__.py
 │   └── interface.py           # CLI handling and user interactions
